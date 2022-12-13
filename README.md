@@ -1,7 +1,7 @@
 # 283Assignment3
 1.For each member in your team, provide 1 paragraph detailing what parts of the lab that member implemented / researched.
 
-I have done it alone. Screenshots are present in Assignment 3 directory.
+I have done it alone. 
 
 Steps
 1.Take the assignment 2 setup VM
@@ -22,7 +22,7 @@ Crate test.c file and run it to get required output.
 
 3.Comment on the frequency of exits – does the number of exits increase at a stable rate? Or are there more exits performed during certain VM operations? Approximately how many exits does a full VM boot entail?
 
-Approximately 21648929. Number of exits are not stable and keeps changing. It depends on the activities performed on VM.
+Approximately 5116977. Number of exits are not stable and keeps changing. It depends on the activities performed on VM.
 
 4.Of the exit types defined in the SDM, which are the most frequent? Least?
 
